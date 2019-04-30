@@ -1,0 +1,169 @@
+3' end/5' end
+3' flanking region
+3' untranslated region
+5' flanking region
+5' untranslated region
+Ablation experiment
+Acrylamide gels
+Agarose gels
+Amp resistance
+Anneal
+Antibiotic resistance
+Anti-sense strand
+AP-1 site
+ATG or AUG
+BAC
+Band shift assay
+Bacteriophage lambda
+Binding site
+Blotting
+BP
+Cap
+Cap site
+CAT assay
+CCAAT box
+cDNA clone
+ChIP
+Chromatin Immunoprecipitation
+Chromosome walking
+Clone (verb)
+Clone (noun)
+Coding sequence
+Coding strand
+Codon
+Consensus sequence
+Contig
+Cosmid
+DNase
+Dot blot
+Downstream
+E. coli
+Electrophoresis
+Endonuclease
+Enhancer
+ERE
+Evolutionary Footprinting
+Exon
+Exonuclease
+Expression
+Expression clone
+Footprinting
+Gel electrophoresis
+Gel shift assay
+Gene
+Genome
+Genomic blot
+Genomic clone
+Genotype
+GRE: Glucocorticoid Response Element
+Helix-loop-helix
+hnRNA
+Host strain (bacterial)
+Hybridization
+Insert
+Intergenic
+Intron
+KB
+Kinase
+Knock-out experiment
+Lambda
+Leucine zipper
+Library
+Ligase
+Ligation
+Linker
+Marker
+Message
+Microsatellite
+mRNA
+M13
+Nick translation
+Non-coding strand
+Northern blot
+Nuclear run-on
+Nuclease
+Nuclease protection assay
+Oncogene
+Open reading frame
+Origin of replication
+pBR322
+PCR
+Phagemid
+Plasmid
+PolyA tail
+Polymerase
+Polymerase chain reaction
+Post-transcriptional regulation
+Post-translational processing
+Post-translational regulation
+PRE: Progesterone Response Element
+Primary transcript
+Primer
+Primer extension
+Probe
+Processing
+Promoter
+Proto-oncogene
+Pulsed field gel electrophoresis
+Random primed synthesis
+Reading frame
+Repetitive DNA
+Response element
+Restriction
+Restriction enzyme
+Restriction fragment
+Restriction fragment length polymorphism
+Restriction map
+Restriction site
+Reverse transcriptase
+RFLP
+Ribonuclease
+Riboprobe
+Ribosome
+RNAi
+RNase
+RNase protection assay
+rRNA
+RT-PCR
+Run-off
+Run-on
+S1 end mapping
+S1 nuclease
+Screening
+Sense strand
+Sequence
+Shotgun cloning
+Shotgun sequencing
+siRNA
+Slot blot
+snRNA
+snRNP
+SNP
+Solution hybridization
+Southern blot
+SSR
+Stable transfection
+Sticky ends
+Stringency
+Sub-cloning
+Taq polymerase
+TATA box
+Tet resistance
+Tissue-specific expression
+Tm
+Transcription factor
+Transcription
+Transfection
+Transformation (with respect to bacteria)
+Transformation (with respect to cultured cells)
+Transgenic mouse
+Transient transfection
+Translation
+Tumor suppressor
+tRNA
+Upstream activator sequence
+Upstream/Downstream
+Vector
+Western blot
+YAC
+Zinc finger
