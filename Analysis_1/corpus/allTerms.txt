@@ -80,6 +80,7 @@ M13
 Nick translation
 Non-coding strand
 Northern blot
+NT
 Nuclear run-on
 Nuclease
 Nuclease protection assay
