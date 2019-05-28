@@ -1,0 +1,219 @@
+﻿rank,country,gdp
+1,Liechtenstein,166022
+2,Monaco,165421
+3,Luxembourg,106806
+4,Bermuda,102192
+5,Macau,80893
+6,Switzerland,80101
+7,Norway,75295
+8,Iceland,73060
+9,Ireland,69604
+10,Cayman Islands,65472
+11,Qatar,63506
+12,United States of America,60055
+13,Australia,57613
+14,Denmark,57533
+15,Singapore,56737
+16,Sweden,54043
+17,San Marino,50588
+18,Greenland,49398
+19,Netherlands,48754
+20,Austria,47718
+21,Hong Kong,46390
+22,Finland,45670
+23,Germany,44976
+24,Canada,44974
+25,Belgium,43289
+26,New Zealand,42936
+27,Israel,42452
+28,United Arab Emirates,40699
+29,United Kingdom of Great Britain and Northern Ireland,39758
+30,Andorra,39153
+31,France,38415
+32,Japan,38220
+33,New Caledonia,35815
+34,Italy,32747
+35,"Virgin Islands, British",31917
+36,"Korea, Republic of",30025
+37,"Bahamas, The",29825
+38,Malta,29137
+39,Kuwait,28897
+40,Turks and Caicos Islands,28689
+41,Puerto Rico,28451
+42,Spain,28354
+43,Brunei,28291
+44,Europe,27222
+45,Americas,26748
+46,Cyprus,25790
+47,"Taiwan, Province of China",24971
+47,Taiwan,24971
+47,Aruba,25655
+48,Bahrain,23688
+49,Slovenia,23296
+50,Saudi Arabia,20761
+51,Czechia,20326
+52,French Polynesia,19807
+53,Estonia,19793
+54,Curaçao,19586
+55,Portugal,18882
+56,Anguilla,18861
+57,Greece,18198
+58,Cook Islands,17798
+59,Slovakia,17552
+60,Uruguay,17120
+61,Saint Kitts and Nevis,16818
+62,Barbados,16494
+63,Lithuania,16450
+64,Trinidad and Tobago,16145
+65,Seychelles,15693
+66,Latvia,15625
+67,Chile,15347
+68,Oman,15267
+69,Panama,15088
+70,Antigua and Barbuda,14803
+71,Argentina,14400
+72,Hungary,14376
+73,Poland,13786
+74,Palau,13417
+75,Croatia,13177
+76,Costa Rica,11734
+77,Montserrat,11582
+78,Maldives,11151
+79,Russian Federation,10956
+80,Romania,10763
+81,World,10665
+82,Mauritius,10565
+83,Turkey,10546
+84,Grenada,10451
+85,Nauru,10045
+86,Malaysia,9951
+87,Equatorial Guinea,9850
+88,Brazil,9821
+89,Saint Lucia,9607
+90,South America,9393
+91,Mexico,8967
+92,Lebanon,8778
+93,Kazakhstan,8756
+94,China,8682
+95,Cuba,8433
+96,Bulgaria,8218
+97,Central America,7990
+98,"Venezuela, Bolivarian Republic of",7977
+99,Botswana,7596
+100,Gabon,7221
+101,Dominican Republic,7052
+102,Saint Vincent and the Grenadines,6980
+103,Montenegro,6958
+104,Suriname,6757
+105,Dominica,6719
+106,Thailand,6595
+107,Turkmenistan,6585
+108,Peru,6572
+109,Colombia,6302
+110,Ecuador,6273
+111,South Africa,6151
+112,Serbia,5912
+113,Belarus,5750
+114,Iran,5680
+115,North Macedonia,5415
+116,Fiji,5382
+117,Namibia,5227
+118,Bosnia and Herzegovina,5181
+119,Jamaica,5130
+120,Belize,5077
+121,Iraq,4756
+122,Guyana,4555
+123,Guatemala,4471
+124,Albania,4450
+125,Samoa,4356
+126,Paraguay,4322
+127,Southeast Asia,4266
+128,Angola,4247
+129,Jordan,4196
+130,Sri Lanka,4184
+131,Azerbaijan,4146
+132,Kosovo,4116
+133,Algeria,4055
+134,Tonga,3950
+135,Libya,3942
+136,Armenia,3937
+137,Tuvalu,3924
+138,El Salvador,3889
+139,Georgia,3875
+140,Indonesia,3847
+141,Marshall Islands,3753
+142,Mongolia,3620
+143,Tunisia,3475
+144,"Bolivia, Plurinational State of",3394
+145,Cape Verde,3245
+146,Eswatini,3224
+147,"Micronesia, Federated States of",3188
+148,Vanuatu,3128
+149,Bhutan,3173
+150,Morocco,3070
+151,Philippines,2989
+152,Sudan,2967
+153,Palestine,2946
+154,Papua New Guinea,2667
+155,Ukraine,2536
+156,Honduras,2480
+157,Laos,2457
+158,Viet Nam,2342
+159,East Timor,2279
+160,Nicaragua,2222
+161,"Congo, Republic of the",2147
+162,Ghana,2046
+163,Moldova,2006
+164,Egypt,2000
+165,Solomon Islands,1982
+166,Nigeria,1969
+167,Djibouti,1928
+168,India,1923
+169,São Tomé and Príncipe,1921
+170,Africa,1766
+171,Kiribati,1694
+172,Côte d'Ivoire,1566
+173,Uzbekistan,1557
+174,Pakistan,1534
+175,Zambia,1513
+176,Kenya,1508
+177,Bangladesh,1492
+178,Cameroon,1452
+179,Cambodia,1382
+180,Senegal,1333
+181,Comoros,1330
+182,Myanmar,1257
+183,Kyrgyzstan,1251
+184,Lesotho,1178
+185,Eritrea,1147
+186,Mauritania,1129
+187,Zimbabwe,1091
+188,Yemen,990
+189,"Tanzania, United Republic of",934
+190,Nepal,849
+191,Syrian Arab Republic,831
+192,Benin,826
+193,Mali,822
+194,Guinea,803
+195,Tajikistan,801
+196,Haiti,776
+197,Rwanda,748
+198,Guinea-Bissau,724
+199,Ethiopia,720
+200,Chad,719
+201,"Gambia, The",709
+202,"Korea, North",685
+203,Uganda,646
+204,Burkina Faso,642
+205,Afghanistan,619
+206,Togo,614
+207,Liberia,584
+208,Madagascar,517
+209,Sierra Leone,495
+210,"Congo, Democratic Republic of the",463
+211,South Sudan,453
+212,Central African Republic,428
+213,Mozambique,426
+214,Niger,378
+215,Malawi,340
+216,Burundi,290
