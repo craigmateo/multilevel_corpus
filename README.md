@@ -1,28 +1,65 @@
-# multilevel_corpus
+# Multilevel Corpus: A Study in Ecological Discourse
 
-Corpus linguistic data and analysis for research purposes. Three distinct corpora were constructed. Each corpus is aimed at a level of communication, so there is a textual, verbal, and a nonverbal corpus. Also, each corpus corresponds to an overall environmental theme. The themes covered are genetically modified (GM) seed, the Dakota Access Pipeline (a natural gas infrastructure project), and mining.
+This repository contains corpus linguistic data and analysis scripts used in the dissertation *Language Games and Nature: A Corpus-Based Analysis of Ecological Discourse*. The research applies a multilevel, interdisciplinary framework to explore environmental communication across textual, verbal, and nonverbal modes of discourse. Each level corresponds to a distinct thematic domain: genetically modified seed, the Dakota Access Pipeline, and resource extraction/mining.
 
-| Corpus | Themes                                        | Data                                                                                                                              |
-|--------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Genetically modified (GM) seed                | Texts collected from the web; categorized into 2 sub-corpora representing pro- and anti- sides of the debate                      |
-| 2      | Dakota Access Pipeline (natural gas pipeline) | Quotations, parsed from web articles, with speaker identities; categorized into 3 groups depending on the position of the speaker |
-|        | Mining & Resource Extraction                  | Video interviews and documentaries; transcripts recorded and nonverbal annotation applied to selected segments                    |
+## Corpus Overview
 
-The aim was conduct an analysis of each corpus (1 to 3) in a way that proceeds from the general to the specific. Analysis 1 looks at broad themes from the perspective of the entire texts. Analyses 2 and 3 proceed to sentences, phrases, and even the phonetic and syllaballic components of linguistic data. The three levels of discourse are applied to each corpus. In other words, each the three analyses is split into ecological, cultural, socio-economic, and cognitive levels.
+| Corpus | Theme                         | Data Description                                                                                                                      |
+|--------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Genetically Modified (GM) Seed| Web-based textual data, categorized into pro- and anti-GM sub-corpora.                                                               |
+| 2      | Dakota Access Pipeline        | Quoted speech from web news articles with speaker metadata. Coded according to stakeholder position.                                 |
+| 3      | Mining & Resource Extraction  | Transcripts of video interviews and documentaries, including nonverbal annotations for selected segments.                            |
 
-Research findings for Analysis 1 are published in the journal [Discourse & Society](https://journals.sagepub.com/doi/full/10.1177/09579265211023234). An article with findings for Analysis 2 is currently under review.
+## Analytical Framework
 
-### Prerequisites
+Each corpus was analyzed using a three-tiered methodology:
 
-#### Python Packages and Modules
-*pandas*, *numpy*, *seaborn*, *matplotlib*, *nltk*, *geotext*, *iso3166*, *country_converter*, *statistics*
+1. **Macro-level** – Thematic and structural discourse analysis of complete texts (e.g., ideology, narrative framing).
+2. **Meso-level** – Sentence- and phrase-level analysis, including keyword extraction, collocation, and sentiment analysis.
+3. **Micro-level** – Phonetic, prosodic, and nonverbal elements (e.g., hesitations, gestures, syllabic emphasis).
 
-## Authors
+These analyses are interpreted across four dimensions of environmental discourse:
+- **Ecological**
+- **Cultural**
+- **Socio-economic**
+- **Cognitive**
 
-* **Craig Frayne** (https://github.com/craigmateo)
+## Publication
+
+- **Analysis 1 (macro-level textual analysis)**:  
+  Frayne, C. (2021). [Ecological Discourse and the Pipeline Controversy: A Corpus Approach to Environmental Framing](https://journals.sagepub.com/doi/full/10.1177/09579265211023234). *Discourse & Society*, 32(6).
+
+- **Dissertation**:  
+  Frayne, C. (2021). *Language Games and Nature: A Corpus-Based Analysis of Ecological Discourse*.  
+  [Zitierfähige URL](https://nbn-resolving.org/urn:nbn:de:bsz:105-qucosa2-748562)
+
+## Prerequisites
+
+### Python Packages
+
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `nltk`
+- `geotext`
+- `iso3166`
+- `country_converter`
+- `statistics`
+
+## Author
+
+- **Craig Frayne**  
+  [GitHub Profile](https://github.com/craigmateo)
 
 ## Acknowledgments
 
-* [TenTen Corpus Family](https://www.sketchengine.eu/documentation/tenten-corpora/) 
-* ["Automated Keyword Extraction from Articles using NLP", Sowmya Vivek](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
- 
+- [TenTen Corpus Family](https://www.sketchengine.eu/documentation/tenten-corpora/)
+- [Automated Keyword Extraction from Articles using NLP by Sowmya Vivek](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
+
+---
+
+**Keywords**: corpus linguistics, applied linguistics, intercultural communication, ecolinguistics, environmental communication  
+**Classification (DDC)**: 380  
+**University**: Technische Universität Bergakademie Freiberg  
+**Advisors**: Prof. Dr. Michael B. Hinner, Prof. Dr. Alcina Sousa
