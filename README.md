@@ -27,7 +27,8 @@ These analyses are interpreted across four dimensions of environmental discourse
 ## Publication
 
 - **Analysis 1 (macro-level textual analysis)**:  
-  Frayne, C. (2021). [Ecological Discourse and the Pipeline Controversy: A Corpus Approach to Environmental Framing](https://journals.sagepub.com/doi/full/10.1177/09579265211023234). *Discourse & Society*, 32(6).
+  Frayne, C. (2022). *Corpus-based analysis of genetically modified seed discourse*. *Discourse & Society*, 33(2), 175–192.  
+  [Read the article](https://journals.sagepub.com/doi/full/10.1177/09579265211023234)
 
 - **Dissertation**:  
   Frayne, C. (2021). *Language Games and Nature: A Corpus-Based Analysis of Ecological Discourse*.  
